@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rupa kumari.
 
 ## 🚀 About Me
-I'm a *Software Engineer* specializing in *Backend Development* and *Microservices Architecture. Passionate about building scalable and high-performance applications, I love working with **Spring Boot, Java, and cloud technologies*.
+I'm a *Software Engineer* specializing in *Backend Development* and *Microservices Architecture*. Passionate about building scalable and high-performance applications, I love working with **Spring Boot, Java, and cloud technologies**.
 
 🔹 Currently working as a *Software Development Engineer (Specialist Programmer) at Infosys*  
 🔹 Strong problem-solving skills with expertise in *Data Structures and Algorithms*  
